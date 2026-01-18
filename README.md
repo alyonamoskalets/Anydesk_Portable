@@ -1,6 +1,10 @@
 ![Logo](https://i.ibb.co/5ZMJ18t/appicon-128.png)
 # Anydesk Portable
 
+![Latest](https://img.shields.io/github/downloads/alyonamoskalets/Anydesk_Portable/latest/total?sort=semver&style=flat-square&logo=github&label=Latest&labelColor=grey&color=red)
+![Total](https://img.shields.io/github/downloads/alyonamoskalets/Anydesk_Portable/total?style=flat-square&logo=github&label=Total&labelColor=grey&color=red)
+
+
 This is a special version for using with **[PortableApps platform](https://portableapps.com/)** on Microsoft Windows(TM) operating system.
 Original software version is located on [official webpage](https://anydesk.com).
 
@@ -30,6 +34,4 @@ You are very welcome to contact me or raise an issue, if any, [here on GitHub](h
 ## :heart: Donation and support
 You can support the further development of this particular project, as well as my other projects on GitHub by buying me a cup of tasty coffee.
 
-![Buy Me A Coffee](https://i.ibb.co/HL7n6p9r/default-yellow-220x62.png)
-
-[Donate](https://www.buymeacoffee.com/alyonamoskalets)
+[![Buy Me A Coffee](https://i.ibb.co/HL7n6p9r/default-yellow-220x62.png)](https://www.buymeacoffee.com/alyonamoskalets)
